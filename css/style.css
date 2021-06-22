@@ -4,3 +4,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightgrey;
+}
+
+header{
+    height: 80px;
+    border: 1px solid red;
+    background-color: white;
+}
+
+h1{
+    display: inline-block;
+    text-align: center;
+}
+
+.container{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
